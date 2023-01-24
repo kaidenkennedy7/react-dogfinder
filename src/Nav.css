@@ -1,0 +1,23 @@
+.Nav {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.4em;
+}
+
+.Nav a {
+    margin: auto;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.Nav a.active {
+    color: rgb(53,53,53);
+}
+
+.Nav a:hover {
+    color: black;
+}

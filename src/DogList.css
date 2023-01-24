@@ -1,0 +1,26 @@
+.DogList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.DogList img {
+    width: 250px;
+    margin: 1.5em;
+    border-radius: 10px;
+}
+
+.DogList a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.DogList a:hover {
+    color: #666464;
+}
+
+.DogList h3 {
+    margin: 0;
+}

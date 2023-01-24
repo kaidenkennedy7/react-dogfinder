@@ -1,0 +1,13 @@
+.DogDetails {
+    margin: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.DogDetails img {
+    width: 500px;
+    border-radius: 5px;
+}
+
+.DogDetails ul {
+    list-style: none;
+}
